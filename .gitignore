@@ -1,0 +1,7 @@
+#ignore IDE folders
+.idea
+.vs
+.vscode
+
+#ignore build outputs
+build/
